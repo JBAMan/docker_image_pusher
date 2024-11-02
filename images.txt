@@ -6,3 +6,5 @@
 nginx
 redis
 openjdk:11.0-jre-buster
+openjdk11
+openjdk17
