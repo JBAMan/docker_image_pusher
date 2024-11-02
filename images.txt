@@ -5,7 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
 redis
-redis:7.4.6
+nacos:latest
 openjdk:11.0-jre-buster
 openjdk:17
 openjdk:8
