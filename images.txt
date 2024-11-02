@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
 redis
+openjdk:17.0-jre-buster
