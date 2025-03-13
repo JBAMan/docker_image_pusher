@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
 openjdk:17
-nacos
+nacos/nacos-server
+redis
