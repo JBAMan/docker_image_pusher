@@ -4,8 +4,3 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
-redis
-nacos:latest
-openjdk:11.0-jre-buster
-openjdk:17
-openjdk:8
